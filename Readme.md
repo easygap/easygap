@@ -1,6 +1,14 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easygap&show_icons=true&theme=tokyonight)
-[![Solved.ac
+### 🖤 I`m Currently Learning
+  <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=eclipseide&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=white"/></a>
+
+### 🖤 My Git Hub Status 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easygap&show_icons=true&theme=tokyonight)
+### 🖤 My beakjoon tears
+  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnstndlwld)](https://solved.ac/dlwnstndlwld)
+
+
 
 <!--
 **easygap/easygap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
