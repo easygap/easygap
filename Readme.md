@@ -1,3 +1,6 @@
+### 🖤 My Visit history
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasygap&count_bg=%2389CFF3&title_bg=%2300A9FF&icon=&icon_color=%23E7E7E7&title=방문&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### 🖤 I`m Currently Learning
   <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=eclipseide&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=white"/></a>
