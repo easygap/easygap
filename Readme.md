@@ -6,8 +6,10 @@
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-plastic&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-plastic&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-plastic&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Androidstudio-3DDC84?style=flat-plastic&logo=androidstudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-plastic&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-plastic&logo=tensorflow&logoColor=white"/></a>
 
