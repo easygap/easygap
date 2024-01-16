@@ -1,5 +1,9 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Junsu's%20GitHub&fontSize=70&animation=twinkling)
+
+
+
 ### :black_heart: My GitHub Visited history :black_heart:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasygap&count_bg=%2389CFF3&title_bg=%2300A9FF&icon=&icon_color=%23E7E7E7&title=방문&edge_flat=false)](https://hits.seeyoufarm.com)
 
