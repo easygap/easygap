@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-plastic&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-DrawIO-F08705?style=flat-plastic&logo=diagramsdotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"/></a>
-
+<img src="https://img.shields.io/badge/-ApacheTomcat-F8DC75?style=flat-plastic&logo=apachetomcat&logoColor=black"/></a>
 
 ### :black_heart: My Git Hub Status 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easygap&show_icons=true&theme=tokyonight)
