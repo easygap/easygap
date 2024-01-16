@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-plastic&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-plastic&logo=springboot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Androidstudio-3DDC84?style=flat-plastic&logo=androidstudio&logoColor=grey"/></a>
+</br>
+  <img src="https://img.shields.io/badge/-Androidstudio-3DDC84?style=flat-plastic&logo=androidstudio&logoColor=grey"/></a>
 <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-plastic&logo=keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-plastic&logo=figma&logoColor=white"/></a>
