@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-ThymeLeaf-005F0F?style=flat-plastic&logo=thymeleaf&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-plastic&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Androidstudio-3DDC84?style=flat-plastic&logo=androidstudio&logoColor=grey"/></a>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-plastic&logo=github&logoColor=white"/></a>
