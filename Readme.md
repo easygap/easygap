@@ -9,27 +9,11 @@
 
 ### :black_heart: My Skills :black_heart:
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=eclipseide&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-plastic&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-plastic&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-mariaDB-3498DB?style=flat-plastic&logo=mariadbfoundation&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-ThymeLeaf-005F0F?style=flat-plastic&logo=thymeleaf&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-plastic&logo=springboot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Androidstudio-3DDC84?style=flat-plastic&logo=androidstudio&logoColor=grey"/></a>
-<img src="https://img.shields.io/badge/-Github-181717?style=flat-plastic&logo=github&logoColor=white"/></a>
-
-### :black_heart: I've Used :black_heart:
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-plastic&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-plastic&logo=spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-plastic&logo=kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Keras-D00000?style=flat-plastic&logo=keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-plastic&logo=figma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-DrawIO-F08705?style=flat-plastic&logo=diagramsdotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/-ApacheTomcat-F8DC75?style=flat-plastic&logo=apachetomcat&logoColor=black"/></a>
 
 ### :black_heart: My Git Hub Status  :black_heart:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easygap&show_icons=true&theme=tokyonight)
