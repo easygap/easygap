@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-plastic&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"/></a>
 
-### :black_heart: My Git Hub Status  :black_heart:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easygap&show_icons=true&theme=tokyonight)
 ### :black_heart: My beakjoon tears :black_heart:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnstndlwld)](https://solved.ac/dlwnstndlwld)
