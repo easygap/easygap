@@ -23,5 +23,5 @@
 ### :black_heart: Contacts :black_heart:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwnstndlwld@gmail.com)](mailto:dlwnstndlwld@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjwkjw9464@naver.com)](mailto:kjwkjw9464@naver.com)
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/takai.mizu/)
 </div>
