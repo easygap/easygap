@@ -1,35 +1,32 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Junsu's%20GitHub&fontSize=70&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=120&amp;section=header&amp;text=Junsu's%20GitHub&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=35" alt="Junsu's GitHub" width="100%">
 
-</div>
+웹 서비스와 게임을 만들고 있습니다.
 
-## 프로젝트
+### Tech Stack
 
-최근 작업한 웹 서비스와 게임입니다. 각 저장소에 사용 화면과 실행 방법을 정리해 두었습니다.
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="44" height="44">
+  <br>
+  <sub>Java &nbsp;·&nbsp; Oracle &nbsp;·&nbsp; JavaScript</sub>
+</p>
+<p>
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="44" height="44">
+  <br>
+  <sub>Spring Boot &nbsp;·&nbsp; Spring &nbsp;·&nbsp; Linux</sub>
+</p>
 
-| 프로젝트 | 소개 | 사용해 보기 |
-| --- | --- | --- |
-| [눈금](https://github.com/easygap/quant_trader) | 국내 주식·ETF 자동매매 프로그램입니다. 가상 자금으로 매매를 시험하고 계좌와 수익률을 확인할 수 있습니다. | [설치 안내](https://github.com/easygap/quant_trader/blob/main/docs/GETTING_STARTED.md) |
-| [BORA 기상지도](https://github.com/easygap/korea-weather-grid) | 전국의 바람과 기온, 비 예보를 지도에서 보고 우리 동네의 48시간 예보를 확인합니다. | [날씨 보러 가기](https://bora-weather.dlwnstndlwld.workers.dev) |
-| [SoundMatch](https://github.com/easygap/music_similarity) | 음악 파일을 올리면 등록된 곡 중에서 비슷한 곡을 찾아줍니다. 두 곡의 소리를 번갈아 듣고 그래프로 비교할 수도 있습니다. | [실행 방법](https://github.com/easygap/music_similarity#start) |
-| [Missing Floor](https://github.com/easygap/Missing-Floor) | 4층짜리 빌라에 남겨진 501호 주소를 따라가는 1인칭 공포 게임입니다. Windows용 플레이 테스트를 공개했습니다. | [플레이 테스트](https://github.com/easygap/Missing-Floor/releases/tag/v0.9.1) |
+### Problem Solving
 
-<div align="center">
+<a href="https://solved.ac/dlwnstndlwld">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnstndlwld" alt="solved.ac 프로필" width="350">
+</a>
 
-### 사용 기술
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=eclipseide&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=white" alt="Oracle">
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-plastic&logo=Javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-plastic&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-plastic&logo=spring&logoColor=white" alt="Spring">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black" alt="Linux">
+### Contact
 
-### 알고리즘 공부
-[![solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnstndlwld)](https://solved.ac/dlwnstndlwld)
+<a href="mailto:dlwnstndlwld@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail" height="22"></a>&ensp;
+<a href="mailto:kjwkjw9464@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&amp;logo=naver&amp;logoColor=white" alt="Naver" height="22"></a>&ensp;
+<a href="https://www.instagram.com/takai.mizu/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" height="22"></a>
 
-### 연락처
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwnstndlwld@gmail.com)](mailto:dlwnstndlwld@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjwkjw9464@naver.com)](mailto:kjwkjw9464@naver.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/takai.mizu/)
 </div>
