@@ -11,7 +11,7 @@
 ### Problem Solving
 
 <a href="https://solved.ac/dlwnstndlwld">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnstndlwld" alt="solved.ac 프로필" width="350">
+  <img src="./assets/solved-ac.svg" alt="solved.ac 프로필" width="350">
 </a>
 
 ### Contact
