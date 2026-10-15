@@ -2,20 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0969DA,100:54AEFF&amp;height=120&amp;section=header&amp;text=Junsu's%20GitHub&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=35" alt="Junsu's GitHub" width="100%">
 
-웹 서비스와 게임을 만들고 있습니다.
+웹 개발자로 일하며 사이트 운영과 유지보수를 맡고 있습니다.
 
 ### Tech Stack
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="44" height="44">
-  <br>
-  <sub>Java &nbsp;·&nbsp; Oracle &nbsp;·&nbsp; JavaScript</sub>
-</p>
-<p>
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" title="Spring Boot" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="44" height="44">&ensp;&ensp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="44" height="44">
-  <br>
-  <sub>Spring Boot &nbsp;·&nbsp; Spring &nbsp;·&nbsp; Linux</sub>
-</p>
+<img src="./assets/tech-stack.svg" alt="Java, Oracle, JavaScript, Spring Boot, Spring, Linux" width="300">
 
 ### Problem Solving
 
