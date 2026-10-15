@@ -1,0 +1,37 @@
+name: solved.ac 카드 갱신
+
+on:
+  schedule:
+    - cron: '23 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: solved-ac-card
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+      - name: 갱신 실패 시 기존 이미지 유지 확인
+        run: python3 -B -m unittest discover -s scripts -p 'test_*.py'
+      - name: 카드 다운로드 및 검사
+        run: python3 -B scripts/update_solved_badge.py
+      - name: 내용이 달라졌을 때만 저장
+        run: |
+          if git diff --quiet -- assets/solved-ac.svg; then
+            echo "변경된 내용이 없습니다."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/solved-ac.svg
+          git commit -m "solved.ac 카드 갱신"
+          git push origin HEAD:main
