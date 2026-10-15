@@ -50,7 +50,10 @@ def validate_card(content: bytes) -> bytes:
 
 
 def fetch_card() -> bytes:
-    request = Request(URL, headers={"User-Agent": "easygap-profile-card", "Accept": "image/svg+xml"})
+    request = Request(URL, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; easygap-profile-card/1.0)",
+        "Accept": "image/svg+xml",
+    })
     for attempt in range(3):
         try:
             with urlopen(request, timeout=20) as response:
